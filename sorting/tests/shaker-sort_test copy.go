@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/SuvorovSergey/go-algoritms/sorting"
+	"github.com/SuvorovSergey/go-algorithms/sorting"
 )
 
 func TestShakerSorting(t *testing.T) {
